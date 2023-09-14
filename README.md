@@ -1,9 +1,6 @@
-### Hi there 👋
+### welcome to my github!!!
 
-⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 70.28 %
+你是我的第 ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) 位访客，欢迎阁下的到来
 
----
-
-⏰ Updated on Thu, 14 Sep 2023 12:19:33 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+这是我的GitHub仓库指标数据
+![Aurora7july's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurora7july&show_icons=true&theme=tokyonight)
