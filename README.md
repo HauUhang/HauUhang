@@ -3,7 +3,7 @@
 ## 🥳您是我的第 ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) 位访客，欢迎阁下的到来
 
 ### 自我介绍
-🥰我是小波，英文名Aurora
+🥰我是Aurora，也可以叫我小波
 
 - 🏫目前就读于广东，电子科学与技术大三学生
 - 🎮游戏爱好者，文明VI、崩坏·星穹铁道、游戏王DL、雀魂、Minecraft、东方project等
