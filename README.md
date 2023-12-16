@@ -9,7 +9,7 @@
 - 💬语言学习爱好者，闽南语可交流，粤语识听唔识讲，英语一般般（四级下次能过），日语初级（五十音开始了）
 - 🎮游戏爱好者，极限国度、文明VI、崩坏·星穹铁道、游戏王DL、雀魂、Minecraft、东方project等
 - 👾喜欢看动漫，国漫日漫美漫均有，入宅十年
-- 🔰电子小菜鸡，Python学得还行，verilog勉强，硬件一塌糊涂
+- 🔰电子小菜鸡，Python学得还行，verilog勉强，git学习者，SV语言在学
 - 👩‍💻想成为一名数字IC工程师
 - 📫联系方式：yep6344@gmail.com
 - 🚪欢迎来我的blog参观https://aurora7july.github.io/
