@@ -1,6 +1,6 @@
 # 👋欢迎来到我的GitHub
 
-# 👋welcome to Aurora's Github
+# 👋WELCOME to Aurora's Github
 
 ### 🥳您是我的第 ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) 位访客，欢迎阁下的到来
 
