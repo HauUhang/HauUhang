@@ -16,7 +16,7 @@
 - 🔰电子小菜鸡，Python学得还行，verilog勉强，git学习者，SV语言在学
 - 👩‍💻想成为一名数字IC工程师
 - 📫联系方式：yep6344@gmail.com
-- 🚪欢迎来我的blog参观https://aurora7july.github.io/
+- 🚪欢迎来我的blog参观：https://hauuhang.github.io/
 
 ### Self introduction
 🥰I'm Hau
@@ -28,7 +28,7 @@
 - 🔰Electronics beginner，Python，verilog，git，SV
 - 👩‍💻Want to be a digital IC engineer
 - 📫Email：yep6344@gmail.com
-- 🚪My blog: https://aurora7july.github.io/
+- 🚪My blog: https://hauuhang.github.io/
 
 
 
