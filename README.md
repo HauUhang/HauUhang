@@ -19,7 +19,7 @@
 - 🚪欢迎来我的blog参观https://aurora7july.github.io/
 
 ### Self introduction
-🥰I'm Aurora
+🥰I'm Hau
 
 - 🏫Currently studying in Guangdong, a junior student in electronic science and technology
 - 💬Language learning enthusiast, Hokkien, Cantonese, English, and elementary in Japanese
