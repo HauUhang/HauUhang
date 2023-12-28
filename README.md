@@ -4,7 +4,7 @@
 
 ### 🥳您是我的第 ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) 位访客，欢迎阁下的到来
 
-### 🥳You are my ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) visitor，nice to see you!
+### 🥳You are my ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) visitors，nice to see you!
 
 ### 自我介绍
 🥰我是小波
