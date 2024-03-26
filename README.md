@@ -18,7 +18,7 @@
 - 📫联系方式：yep6344@gmail.com
 - 🚪欢迎来我的blog参观：https://hauuhang.github.io/
 
-### Self introduction
+### Self-introduction
 🥰I'm Hau
 
 - 🏫Currently studying in Guangdong, a junior student in electronic science and technology
