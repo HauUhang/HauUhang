@@ -9,7 +9,7 @@
 ### 自我介绍
 🥰我是小波
 
-- 🏫目前就读于广东，电子科学与技术大三学生
+- 🏫目前就读于广东，电子科学与技术大四学生
 - 💬语言学习爱好者，闽南语可交流，粤语识听唔识讲，英语一般般（四级~~下次~~过了），日语初级（五十音开始了）
 - 🎮游戏爱好者，极限国度、文明VI、崩坏·星穹铁道、游戏王DL、雀魂、Minecraft、东方project等
 - 👾喜欢看动漫，国漫日漫美漫均有，入宅十年
@@ -21,7 +21,7 @@
 ### Self-introduction
 🥰I'm Hau
 
-- 🏫Currently studying in Guangdong, a junior student in electronic science and technology
+- 🏫Currently studying in Guangdong, a senior student in electronic science and technology
 - 💬Language learning enthusiast, Hokkien, Cantonese, English, and elementary in Japanese
 - 🎮Game enthusiast, Riders Republic, Sid Meier's Civilization VI, Star Railroad, Yu-Gi-Oh! DL, Minecraft, etc.
 - 👾Anime lovers，including Chinese, Japanese and American comics for ten years
