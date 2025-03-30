@@ -1,10 +1,9 @@
-# 👋欢迎来到我的GitHub
+# 👋Good morning, and in case I don't see you, good afternoon, good evening, and good night!
 
-# 👋WELCOME to Hau's Github
-
-### 🥳您是我的第 ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) 位访客，欢迎阁下的到来
-
-### 🥳You are my ![Visitor Count](https://profile-counter.glitch.me/Aurora7july/count.svg) visitors，nice to see you!
+<div align="center">
+	<br>
+	<img src="https://github.com/HauUhang/files/blob/main/%E7%85%A7%E7%89%87/profile/profit.png?raw=true">
+</div>
 
 ### 自我介绍
 🥰我是小波
