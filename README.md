@@ -1,10 +1,4 @@
 # 👋git commit -m "Life Update"👾
-
-<div align="center">
-	<br>
-	<img src="https://github.com/HauUhang/files/blob/main/%E7%85%A7%E7%89%87/profile/profit.png?raw=true">
-</div>
-
 ### 自我介绍
 🥰我是小波
 
@@ -29,5 +23,10 @@
 - 📫Email：yep6344@gmail.com
 - 🚪My blog: https://hauuhang.github.io/
 
+
+<div align="center">
+	<br>
+	<img src="https://github.com/HauUhang/files/blob/main/%E7%85%A7%E7%89%87/profile/profit.png?raw=true">
+</div>
 
 
