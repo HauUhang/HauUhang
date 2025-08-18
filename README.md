@@ -19,7 +19,7 @@
 - 🎮Game enthusiast, Riders Republic, Sid Meier's Civilization VI, Star Railroad, Yu-Gi-Oh! DL, Minecraft, etc.
 - 👾Anime lovers，including Chinese, Japanese and American comics for ten years
 - 🔰Python，JSON，C/C++，study machine learning in my spare time
-- 👩‍💻Currently working in a startup company doing Minecraft's MOD development
+- 👩‍💻Currently working in a startup company doing Minecraft MOD development
 - 📫Email：yep6344@gmail.com
 - 🚪My blog: https://hauuhang.github.io/
 
