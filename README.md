@@ -7,7 +7,7 @@
 - 🎮游戏爱好者: 星露谷物语、文明VI、崩坏·星穹铁道、游戏王DL、雀魂、Minecraft、东方project等
 - 👾喜欢看动漫，国漫日漫美漫均有，入宅十年
 - 🔰python学习者，JSON入门，C/C++入门，闲暇时间会学习机器学习
-- 👩‍💻目前在一家初创公司做Minecraft的MOD开发
+- 👩‍💻目前在一家工作室做Minecraft的MOD开发
 - 📫联系方式：yep6344@gmail.com
 - 🚪欢迎来我的blog参观：https://hauuhang.github.io/
 
